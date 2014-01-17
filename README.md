@@ -41,6 +41,9 @@ Numbers
 
 **Number Names** - Show how to spell out a number in English. You can use a preexisting implementation or roll your own, but you should support inputs up to at least one million (or the maximum value of your language's default bounded integer type, if that's less). *Optional: Support for inputs other than positive integers (like zero, negative integers, and floating-point numbers).* [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/WordNumbers.hs)
 
+[[octocat (Python)]](link-to-octocats-solution) [[ajn123 (Python)]](https://github.com/ajn123/Python_Introduction/blob/master/Python%20Version%202/Cryptography%20Works/Number.py)
+
+
 Classic Algorithms
 -----------------
 
